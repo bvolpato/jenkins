@@ -65,6 +65,9 @@
     "defaults",
     "not IE 11"
   ],
+  "resolutions": {
+    "js-yaml@npm:3.14.1": "npm:3.15.1"
+  },
   "engines": {
     "node": ">=24.0.0"
   },
